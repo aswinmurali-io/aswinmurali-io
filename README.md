@@ -22,13 +22,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&show_icons=true" alt="aswinmurali-io" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 699 Contributions in the Year 2020
  > 
-> 📦 29.2 kB Used in Github's Storage 
+> 📦 29.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
