@@ -22,11 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&show_icons=true" alt="aswinmurali-io" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 889 Contributions in the Year 2020
+> 🏆 890 Contributions in the Year 2020
  > 
 > 📦 30.5 kB Used in Github's Storage 
  > 
@@ -99,7 +99,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/aswinmurali-io/aswinmurali-io/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
