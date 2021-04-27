@@ -22,11 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&show_icons=true" alt="aswinmurali-io" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 77 Contributions in the Year 2021
+> 🏆 79 Contributions in the Year 2021
  > 
 > 📦 67.8 kB Used in Github's Storage 
  > 
@@ -90,10 +90,10 @@ Linux                    7 hrs 17 mins       ████████░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     9 repos             ███████████░░░░░░░░░░░░░░   47.37% 
+Dart                     8 repos             ██████████░░░░░░░░░░░░░░░   42.11% 
 Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58% 
 HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
 
 ```
 
