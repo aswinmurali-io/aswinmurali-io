@@ -32,9 +32,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
