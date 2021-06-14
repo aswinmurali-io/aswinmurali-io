@@ -28,7 +28,7 @@
 
 > 🏆 127 Contributions in the Year 2021
  > 
-> 📦 68.3 kB Used in Github's Storage 
+> 📦 68.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +101,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka-->
 
 <p align="center">
