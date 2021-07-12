@@ -98,7 +98,7 @@ HTML                     3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
 
 <p align="center">
