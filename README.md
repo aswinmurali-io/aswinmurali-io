@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&show_icons=true" alt="aswinmurali-io" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -98,7 +98,7 @@ C++                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
 
 <p align="center">
