@@ -99,7 +99,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2021
+ Last Updated on 20/08/2021
 <!--END_SECTION:waka-->
 
 <p align="center">
