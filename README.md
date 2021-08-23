@@ -26,13 +26,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 328 Contributions in the Year 2021
+> 🏆 329 Contributions in the Year 2021
  > 
 > 📦 69.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
@@ -99,7 +99,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/08/2021
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
 <p align="center">
