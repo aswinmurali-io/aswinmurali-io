@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Osum Pi](https://github.com/osumpi/osumpi)
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/aswinmurali-io?tab=repositories).
+- 👨‍💻 All of my projects are available [here](https://github.com/aswinmurali-io?tab=repositories).
 
 - 💬 Ask me about **Flutter, Python, Data Science & ML**
 
