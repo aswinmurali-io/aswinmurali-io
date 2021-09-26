@@ -22,25 +22,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&show_icons=true" alt="aswinmurali-io" /></p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://kaggle.com/aswinmuralico" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aswinmuralico" height="30" width="30" /></a>
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 369 Contributions in the Year 2021
- > 
-> 📦 69.6 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 17 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -50,6 +37,7 @@
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 ```
+
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -60,30 +48,6 @@ Thursday     79 commits     ██░░░░░░░░░░░░░░░�
 Friday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
 Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 Sunday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Dart                     16 hrs 27 mins      ████████████████████████░   97.96% 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
-
-🔥 Editors: 
-VS Code                  16 hrs 47 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-PixelFusion              16 hrs 41 mins      ████████████████████████░   99.38% 
-flutter                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
-
-💻 Operating System: 
-Windows                  16 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
