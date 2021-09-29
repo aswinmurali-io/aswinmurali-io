@@ -26,6 +26,8 @@
 <a href="https://kaggle.com/aswinmuralico" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aswinmuralico" height="30" width="30" /></a>
 </p> -->
 
+[![github trophy](https://github-profile-trophy.vercel.app/?username=aswinmurali-io&row=1)](https://github.com/aswinmurali-io/github-profile-trophy)
+
 <!--START_SECTION:waka-->
 
 **I'm an Early 🐤** 
