@@ -52,7 +52,7 @@ Saturday     93 commits     ███░░░░░░░░░░░░░░�
 Sunday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.55%
 
 ```
-
+<!-- 
 **I Mostly Code in Dart** 
 
 ```text
@@ -67,7 +67,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png)  -->
 
 
  Last Updated on 03/09/2021
