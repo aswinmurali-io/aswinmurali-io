@@ -46,6 +46,8 @@
 
 <!--START_SECTION:waka-->
 
+<!-- 
+
 **I'm an Early 🐤** 
 
 ```text
@@ -68,12 +70,10 @@ Saturday     93 commits     ███░░░░░░░░░░░░░░�
 Sunday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.55%
 
 ```
-<!-- 
 
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/aswinmurali-io/aswinmurali-io/master/charts/bar_graph.png)  -->
-
 
 <!-- Last Updated on 03/09/2021 -->
 <!--END_SECTION:waka-->
