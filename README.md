@@ -32,11 +32,11 @@
 
 <p align="center">
    <a href="https://github.com/aswinmurali-io">
-      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&custom_title=Aswin's%20Github%20Stats&hide_border=true" />
+      <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&custom_title=Aswin's%20Github%20Stats&hide_border=true" />
    </a>
 
    <a href="https://github.com/aswinmurali-io">
-      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=78ea1df7-2f5c-40d7-8142-273f1eda8e5c&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&hide_border=true" />
+      <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=78ea1df7-2f5c-40d7-8142-273f1eda8e5c&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&hide_border=true" />
    </a>
 </p>
 
@@ -45,22 +45,6 @@
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=aswinmurali-io&hide_border=true&margin-w=10&margin-h=20&column=8" />
    </a>
 </p>
-
-[![VIT Electrical Issues](https://github-readme-stats.vercel.app/api/pin?username=rithviknishad&repo=vitcc_electrical_issues)](https://github.com/rithviknishad/vitcc_electrical_issues)
-
-<div align="right">
-
-[![Decipher](https://github-readme-stats.vercel.app/api/pin?username=aswinmurali-io&repo=decipher)]()
-
-</div>
-
-<div align="left">
-
-![Osum Pi](https://github-readme-stats.vercel.app/api/pin?username=osumpi&repo=osumpi)
-
-
-<div align="left">
-
 
 <!--START_SECTION:waka-->
 
@@ -87,17 +71,6 @@ Sunday       109 commits    ████░░░░░░░░░░░░░�
 
 ```
 <!-- 
-**I Mostly Code in Dart** 
-
-```text
-Dart                     16 repos            █████████████░░░░░░░░░░░░   53.33% 
-Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
-
-```
-
 
 **Timeline**
 
