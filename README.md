@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinmurali-io" alt="aswinmurali-io" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/78ea1df7-2f5c-40d7-8142-273f1eda8e5c.svg)](https://wakatime.com/@78ea1df7-2f5c-40d7-8142-273f1eda8e5c)
-
 - 🔭 I’m currently working on [Decipher](https://github.com/aswinmurali-io/decipher)
 
 - 🌱 I’m currently learning **React Native**
@@ -32,11 +30,11 @@
 
 <p align="center">
    <a href="https://github.com/aswinmurali-io">
-      <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&custom_title=Aswin's%20Github%20Stats&hide_border=true" />
+      <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&custom_title=Aswin's%20Github%20Stats%20📊&hide_border=true" />
    </a>
 
    <a href="https://github.com/aswinmurali-io">
-      <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=78ea1df7-2f5c-40d7-8142-273f1eda8e5c&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&hide_border=true" />
+      <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=78ea1df7-2f5c-40d7-8142-273f1eda8e5c&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages%20🔥&hide_border=true" />
    </a>
 </p>
 
