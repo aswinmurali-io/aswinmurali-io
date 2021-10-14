@@ -36,7 +36,7 @@
    </a>
 
    <a href="https://github.com/aswinmurali-io">
-      <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=78ea1df7-2f5c-40d7-8142-273f1eda8e5c&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&hide_border=true" />
+      <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=78ea1df7-2f5c-40d7-8142-273f1eda8e5c&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&hide_border=true" />
    </a>
 </p>
 
