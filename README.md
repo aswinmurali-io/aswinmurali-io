@@ -32,11 +32,11 @@
 
 <p align="center">
    <a href="https://github.com/aswinmurali-io">
-      <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&custom_title=Aswin's%20Github%20Stats&hide_border=true" />
+      <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=aswinmurali-io&custom_title=Aswin's%20Github%20Stats&hide_border=true" />
    </a>
 
    <a href="https://github.com/aswinmurali-io">
-      <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=78ea1df7-2f5c-40d7-8142-273f1eda8e5c&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&hide_border=true" />
+      <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=78ea1df7-2f5c-40d7-8142-273f1eda8e5c&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&hide_border=true" />
    </a>
 </p>
 
