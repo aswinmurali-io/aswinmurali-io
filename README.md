@@ -45,6 +45,7 @@
 </p>
 
 <!--START_SECTION:waka-->
+<!--
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
@@ -127,4 +128,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
  Last Updated on 15/10/2021
+-->
 <!--END_SECTION:waka-->
