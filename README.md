@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aswin Murali</h1>
-<h3 align="center">I code!</h3>
+<h3 align="center">Building tools that make your life better!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinmurali-io" alt="aswinmurali-io" /> </p>
 
-- 🔭 I’m currently working on [Decipher](https://github.com/aswinmurali-io/decipher)
+- 🔭 I’m currently working on [**hyrf**](https://github.com/aswinmurali-io/hyrf).
 
-- 🌱 I’m currently learning **React Native**
+<!-- - 🌱 I’m currently learning **React Native** -->
 
-- 👯 I’m looking to collaborate on [Osum Pi](https://github.com/osumpi/osumpi)
+- 👯 I’m looking to collaborate on [**osumpi**](https://github.com/osumpi/osumpi).
 
 - 👨‍💻 All of my projects are available [here](https://github.com/aswinmurali-io?tab=repositories).
 
