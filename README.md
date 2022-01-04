@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinmurali-io" alt="aswinmurali-io" /> </p>
 
-- 🔭 I’m currently working on [**hyrf**](https://github.com/aswinmurali-io/hyrf).
+<!-- - 🔭 I’m currently working on [**hyrf**](https://github.com/aswinmurali-io/hyrf). -->
 
 <!-- - 🌱 I’m currently learning **React Native** -->
 
