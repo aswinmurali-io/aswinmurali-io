@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinmurali-io" alt="aswinmurali-io" /> </p>
 
-<!-- - 🌱 I’m currently learning **React Native** -->
-
-- 👯 I’m looking to collaborate on [**osumpi**](https://github.com/osumpi/osumpi).
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/aswinmurali-io?tab=repositories).
 
