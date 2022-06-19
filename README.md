@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinmurali-io" alt="aswinmurali-io" /> </p>
 
-- 🔭 I’m currently working on [osumffmpeg](https://github.com/aswinmurali-io/osumffmpeg).
+- 🔭 I’m currently working on **[osumffmpeg](https://github.com/aswinmurali-io/osumffmpeg)**.
 
 - 🌱 I’m currently learning **React & GraphQL**.
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/aswinmurali-io?tab=repositories).
+- 👨‍💻 All of my projects are available at **[here](https://github.com/aswinmurali-io?tab=repositories)**.
 
 - 💬 Ask me about **Flutter, Python, Data Science & ML**.
 
