@@ -38,3 +38,31 @@
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=aswinmurali-io&hide_border=true&margin-w=10&margin-h=20&column=7&no-frame=true" />
    </a>
 </p>
+
+# **pub.dev** packages
+
+## **[flutter_innosetup](https://github.com/aswinmurali-io/flutter_innosetup)**
+Make windows installer 🪟 for flutter powered apps💻.
+[pub.dev/packages/innosetup](https://pub.dev/packages/innosetup)
+
+## **[osum_serializable](https://github.com/aswinmurali-io/osum_serializable)**
+Serialize almost everything you ever need! 📦 Supports serializing `MaterialColor`, `Color`, `Size`, `Locale`, `IconData`, `UuidValue`, `DateTime`, `Directory`, `File`, `Duration`, and many more.
+[pub.dev/packages/osum_serializable](https://pub.dev/packages/osum_serializable)
+
+## **[osumlog](https://github.com/osumpi/osumlog)**
+The osum logging library.
+[pub.dev/packages/osumlog](https://pub.dev/packages/osumlog)
+
+# **app** projects
+
+## **[Osum FFMPEG](https://github.com/aswinmurali-io/osumffmpeg)**
+𝗢𝘀𝘂𝗺 𝗙𝗙𝗠𝗣𝗘𝗚 is a 📹 media utility tool 🛠️ that gives the normal users the power of FFMPEG 💪 to convert formats⚙️ • loop video 🔁 • mute audio 🔇 and much more in a beautiful UI.
+[aswinmurali-io/osumffmpeg](https://github.com/aswinmurali-io/osumffmpeg)
+
+## **[Aqua Vision](https://github.com/aswinmurali-io/aquavision)**
+⚒️ Build intelligent aquarium systems using aquavision 🐟
+[aswinmurali-io/aquavision](https://github.com/aswinmurali-io/aquavision)
+
+## **[What's my today's tasks?](https://github.com/aswinmurali-io/whatsmytodaystasks)**
+Shows your tasks at that day!
+[aswinmurali-io/whatsmytodaystasks](https://github.com/aswinmurali-io/whatsmytodaystasks)
