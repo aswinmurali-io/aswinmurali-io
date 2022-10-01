@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, Python, Data Science & ML**.
 
-- 📫 How to reach me **aswinmurali.co@gmail.com**.
+- 📫 How to reach me **mail@aswinmurali.dev**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
